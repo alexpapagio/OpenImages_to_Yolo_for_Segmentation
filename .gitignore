@@ -3,7 +3,7 @@ Dataset/images
 Dataset/labels
 Dataset/masks
 
-!gitignore
+gitignore
 
 Model/runs
 Model/yolo8n-seg.pt
@@ -14,4 +14,4 @@ prepare_data/files_from_OpenImages
 prepare_data/fitered_lists
 
 yolo11n.pt
-yolo8n-seg.pt
+yolov8n-seg.pt

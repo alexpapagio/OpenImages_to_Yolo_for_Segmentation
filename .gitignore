@@ -1,0 +1,17 @@
+# Ignore
+Dataset/images
+Dataset/labels
+Dataset/masks
+
+gitignore
+
+Model/runs
+Model/yolo8n-seg.pt
+
+prepare_data/pycache
+
+prepare_data/files_from_OpenImages
+prepare_data/fitered_lists
+
+yolo11n.pt
+yolov8n-seg.pt

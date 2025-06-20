@@ -1,0 +1,6 @@
+path: /home/alexp/code/alexpapagio/computer_vision_engineer/07_segmentation_with_Yolov8/Dataset
+train: ./images/train
+val: ./images/val
+
+nc: 1
+names: ['duck']

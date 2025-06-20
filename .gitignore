@@ -6,8 +6,10 @@ Dataset/masks/
 
 Model/runs/
 Model/yolo8n-seg.pt
+Model/config.yaml
 
 prepare_data/_pycache_/
+
 
 prepare_data/files_from_OpenImages/
 prepare_data/fitered_lists/
